@@ -1,0 +1,2 @@
+# BEAN
+information about beans
